@@ -1,10 +1,10 @@
-#GunRunnerZ Rules & Info
-###Server Name :GunRunnerZ Loot 20X 500k Start
-###Connection Info :147.124.204.84:2517
-###Discord:https ://discord.gg/gunrunnerz
+GunRunnerZ Rules & Info
+Server Name :GunRunnerZ Loot 20X 500k Start
+Connection Info :147.124.204.84:2517
+Discord:https ://discord.gg/gunrunnerz
 
 
-##Rules
+Rules
  +No cheating/glitching/duplicating
 +No harassing or racist comments in game chat or discord chat
 +No calling out players or base location in chat or discord 
@@ -23,7 +23,7 @@
 -You can use one person or object to boost INCLUDING A HELI, but you cannot use a floating items
 -No dropping loot on the ground for it to despawn when raiding 
 
-##Raiding Rules/ Building Rules
+Raiding Rules/ Building Rules
 -No Bug Abusing allowed (Moon walking, Render Glitching, etc.)
 -Abusing Bugs results in a Ban (Duration is decided by Admins)
 -Every Loophole in the rules that is being used (and also not reported) is a bannable offence.
