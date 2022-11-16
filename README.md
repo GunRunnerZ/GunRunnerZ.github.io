@@ -1,7 +1,4 @@
-GunRunnerZ Rules & Info
-Server Name :GunRunnerZ Loot 20X 500k Start
-Connection Info :147.124.204.84:2517
-Discord:https ://discord.gg/gunrunnerz
+GunRunnerZ Rules & Info                                                                                                                                                                                                                                                                                                                    Server Name :GunRunnerZ Loot 20X 500k                                                                                                                    StartConnection Info :147.124.204.84:2517                                                                                                                  Discord:https ://discord.gg/gunrunnerz
 
 
 Rules
