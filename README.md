@@ -1,5 +1,11 @@
-GunRunnerZ Rules & Info----Server Name :GunRunnerZ Loot 20X 500kStart----Connection Info :147.124.204.84:2517-----Discord:https ://discord.gg/gunrunnerz
-<Rules>
+GunRunnerZ Rules & Info
+Server Name :GunRunnerZ Loot 20X 500kStart
+Connection Info :147.124.204.84:2517
+Discord:https ://discord.gg/gunrunnerz
+
+
+
+#Rules
 +No cheating/glitching/duplicating
 +No harassing or racist comments in game chat or discord chat
 +No calling out players or base location in chat or discord 
@@ -14,16 +20,17 @@ GunRunnerZ Rules & Info----Server Name :GunRunnerZ Loot 20X 500kStart----Connect
 -Abusing Bugs results in a Ban (Duration is decided by Admins)
 -Every Loophole in the rules that is being used (and also not reported) is a bannable offence.
 -only 1 base per clan/player/group 
--Both Raid parties are not allowed to build or place Codelocks during a Raid. If a raid tool (C4, Tablet, Sledgehammer) hasn't been used for 45 minutes the raid is over, The atacking team is not allowed to enter the base after that. The defenders is allowed to Rebuild after that time. The same players may not raid the same base within 24hrs 
+-Both Raid parties are not allowed to build or place Codelocks during a Raid. If a raid tool (C4, Tablet, Sledgehammer) hasn't been used for 45 minutes the raid is over, 
+The atacking team is not allowed to enter the base after that. The defenders is allowed to Rebuild after that time. The same players may not raid the same base within 24hrs 
 -You can use one person or object to boost INCLUDING A HELI, but you cannot use a floating items
 -No dropping loot on the ground for it to despawn when raiding 
 
-Raiding Rules/ Building Rules
+#Raiding Rules/ Building Rules
 -No Bug Abusing allowed (Moon walking, Render Glitching, etc.)
 -Abusing Bugs results in a Ban (Duration is decided by Admins)
 -Every Loophole in the rules that is being used (and also not reported) is a bannable offence.
 -only 1 base per clan/player/group 
--Both Raid parties are not allowed to build or place Codelocks during a Raid. If a raid tool (C4, Tablet, Sledgehammer) hasn't been used for 45 minutes the raid is over, The atacking team is not allowed to enter the base after that. The defenders is allowed to Rebuild after that time. The same players may not raid the same base within 24hrs 
+-Both Raid parties are not allowed to build or place Codelocks during a Raid. If a raid tool (C4, Tablet, Sledgehammer) hasn't been used for 45 minutes the raid is over, 
+The atacking team is not allowed to enter the base after that. The defenders is allowed to Rebuild after that time. The same players may not raid the same base within 24hrs 
 -You can use one person or object to boost INCLUDING A HELI, but you cannot use a floating items
 -No dropping loot on the ground for it to despawn when raiding 
-
