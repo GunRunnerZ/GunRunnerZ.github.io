@@ -1,11 +1,8 @@
-GunRunnerZ Rules & Info
-Server Name :GunRunnerZ Loot 20X 500kStart
-Connection Info :147.124.204.84:2517
-Discord:https ://discord.gg/gunrunnerz
+(Server Name :GunRunnerZ Loot 20X 500kStart)----------(GunRunnerZ Rules & Info)
 
 
 
-#Rules
+-[Rules]
 +No cheating/glitching/duplicating
 +No harassing or racist comments in game chat or discord chat
 +No calling out players or base location in chat or discord 
@@ -25,7 +22,7 @@ The atacking team is not allowed to enter the base after that. The defenders is 
 -You can use one person or object to boost INCLUDING A HELI, but you cannot use a floating items
 -No dropping loot on the ground for it to despawn when raiding 
 
-#Raiding Rules/ Building Rules
+[Raiding Rules/ Building Rules]
 -No Bug Abusing allowed (Moon walking, Render Glitching, etc.)
 -Abusing Bugs results in a Ban (Duration is decided by Admins)
 -Every Loophole in the rules that is being used (and also not reported) is a bannable offence.
