@@ -31,3 +31,65 @@ The atacking team is not allowed to enter the base after that. The defenders is 
 The atacking team is not allowed to enter the base after that. The defenders is allowed to Rebuild after that time. The same players may not raid the same base within 24hrs 
 -You can use one person or object to boost INCLUDING A HELI, but you cannot use a floating items
 -No dropping loot on the ground for it to despawn when raiding 
+
+Hello Survivors and welcome to the Donation forum for GunRunnerZ DayZ Servers; If you wish to donate please visit our Discord and go to to #donations channel
+
+
+Donator Packages
+
+
+Below $30
+
+-Donator Status
+
+-Access to the Donator Discord channels
+
+
+$30
+
+- Donator Status
+
+-Access to the Donator Discord channel
+
+-1 month priority queuing - Must be renewed monthly
+
+
+$40
+
+-VIP Donator Status
+
+-Access to the Donator Discord channel
+
+-3 month priority queuing - Must be renewed every three months
+
+-Your own private voice channel on Discord/TS3
+
+-One custom item of your choice (clothing related; Nothing modded!)
+
+
+$60
+
+-God Donator Status
+
+-Access to the Donator Discord channel
+
+-6 month priority queuing - Must be renewed every three months
+
+-Your own private voice channel on Discord/TS3
+
+-If your in a clan on Discord your role will be set to "Display role members separate from online members
+
+-Two custom items of your choice (clothing related; Nothing modded!)
+
+-One re-skinned/re-textured weapon (No modded guns allowed)
+
+
+The donations are used for server expenses to keep the server running 24/7
+
+None of the personal cosmetic items will give you an advantage in-game. They are just for show
+
+All donations are final and are used to achieve goals within the server
+
+None of the donations are used for personal gain
+
+All custom items MUST be added to the general drop table and trader stores as per requirement by the BI EULA and Monetization guidelines
